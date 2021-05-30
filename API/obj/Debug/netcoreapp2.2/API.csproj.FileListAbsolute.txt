@@ -19,3 +19,6 @@ C:\Users\RYZEN\Desktop\Demo\Reactivities\API\obj\Debug\netcoreapp2.2\API.RazorTa
 C:\Users\RYZEN\Desktop\Demo\Reactivities\API\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
 C:\Users\RYZEN\Desktop\Demo\Reactivities\API\obj\Debug\netcoreapp2.2\API.dll
 C:\Users\RYZEN\Desktop\Demo\Reactivities\API\obj\Debug\netcoreapp2.2\API.pdb
+C:\Users\RYZEN\Desktop\Demo\Reactivities\API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\RYZEN\Desktop\Demo\Reactivities\API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\RYZEN\Desktop\Demo\Reactivities\API\obj\Debug\netcoreapp2.2\API.genruntimeconfig.cache
